@@ -73,6 +73,8 @@ const deleteProduct = (req, res) => {
 		});
 	  };
 
+    //Update a product
+
 //export as an object because there will be multiple of these functions
 module.exports = {
   getProducts,
