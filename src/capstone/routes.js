@@ -3,7 +3,7 @@ const controller = require('./controller');
 const router = Router();
 
 // Get All Products
-//Instead of putting the callback function below, we can use our controller function, getStudents()
+//Instead of putting the callback function below, we can use our controller function, getProducts()
 // router.get("/", (req, res) => {
 // 	res.send('USING API ROUTE, routes.js, in capstone folder');
 // });
